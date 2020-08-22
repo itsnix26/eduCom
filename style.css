@@ -242,4 +242,11 @@
   .sub_second_section {
     flex-direction: column-reverse;
   }
+
+  .contact_inputs textarea {
+    width: 170%;
+  }
+  .contact_inputs input {
+    width: 170%;
+  }
 }
